@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "recipe-shopping-app"
+    }
+  },
+  "defaultProject": "recipe-shopping-app",
+  "cli": {
+    "analytics": "84565fe8-3447-4674-84a6-b3057810a8ca"
+  }
 }
